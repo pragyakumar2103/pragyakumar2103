@@ -8,50 +8,23 @@ Pragya Kumar
 
 Bio:
 
-I have nearly 4 years of experience in Java backend development. I enjoy solving problems and manage my time carefully. I excel in collaborating with cross-functional teams and am dedicated to delivering high-quality software solutions.
+Results-driven Software Engineer with 4 years of robust experience in Backend API Development and Contact Center Technology, specializing in Java, Spring Boot, and the creation of streamlined, high-performance RESTful APIs. Demonstrated ability to enhance application functionality and user interaction through advanced optimization techniques, including data structure implementation and proactive cross-team collaboration. Passionate about adopting innovative technologies and mentoring junior team members to achieve remarkable software solutions.
 
 ---
 
 Skills:
 
-- Programming Languages: Java, SQL
-- Technologies and Tools: Intellij, MySQL Workbench, Postman, Swagger, JSON, HTML, Angular, Node, npm, Kafka, Microservices, Exception Handling
-- Soft Skills: Excellent communication skills
+•	Programming Languages: Java 17
+•	Testing Frameworks: JUnit
+•	Databases: MySQL
+•	CI/CD and DevOps Tools: Jenkins, GitHub, CI/CD, Pipeline, Kubernetes
+•	Monitoring and Logging: Splunk
+•	Version Control: GitHub
+•	Build Tools: Maven
+•	Architectural Styles and Frameworks: Microservices Architecture, Spring Boot
+•	Messaging and Event Streaming: Kafka
+•	Project Management and Agile Methodologies: Agile, Scrum, Rally
 
----
-
-Projects:
-
-Library Management System | Java, MySQL (Jan 2020)
-- Developed a comprehensive library management system to streamline book inventory, user registrations, and borrowing records.
-- Integrated features like book search, user authentication, and fine calculation using Java, Spring framework, and MySQL.
-- Ensured seamless backend and frontend integration for a cohesive user experience.
-- Addressed complex challenges through innovative solutions and effective team collaboration.
-
----
-
-Experience:
-
-Optum Global Solution (March 2022 - Present)
-*Associate Software Engineer*
-- Spearheaded the design and deployment of RESTful APIs for a large-scale insurance platform.
-- Achieved a 20% reduction in response time for critical services by optimizing database queries.
-- Boosted application performance by implementing caching strategies with Spring Cache.
-- Maintained a high-quality codebase through meticulous code reviews and prompt defect resolution.
-
-Tata Consultancy Services (Oct 2020 - March 2022)
-*System Engineer*
-- Assisted in creating backend components for email services using Java Mail API.
-- Contributed to data modeling and efficient database schema design in MySQL.
-- Developed a new microservice for personalized benefit searches.
-- Improved system efficiency through backend optimization and query performance tuning.
-
----
-
-Education:
-
-B.Tech, Galgotias University (2016-2020)
-- CGPA: 7.41
 
 ---
 
